@@ -1,0 +1,219 @@
+[
+  {
+    "id": 1,
+    "title": "Gaming Laptop Alpha",
+    "image": "https://i.ibb.co.com/4Zp3Z61/l-1.jpg",
+    "category": "Laptop",
+    "price": 1299.99,
+    "description": "High-performance gaming laptop with RTX graphics.",
+    "specifications": [
+      "Screen Size: 15.6 inches",
+      "Processor: Intel i7",
+      "RAM: 16 GB",
+      "Storage: 512 GB SSD",
+      "Graphics: NVIDIA RTX 3060"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 2,
+    "title": "UltraBook Pro",
+    "image": "https://i.ibb.co.com/dbfXtxZ/l-2.jpg",
+    "category": "Laptop",
+    "price": 999.99,
+    "description": "Slim, lightweight laptop with powerful features.",
+    "specifications": [
+      "Screen Size: 14 inches",
+      "Processor: Intel i5",
+      "RAM: 8 GB",
+      "Storage: 256 GB SSD",
+      "Battery Life: 10 hours"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 3,
+    "title": "Creative Laptop ",
+    "image": "https://i.ibb.co.com/54kDx8p/l-3.jpg",
+    "category": "Laptop",
+    "price": 1399.99,
+    "description": "Designed for creators with high-end graphics and display.",
+    "specifications": [
+      "Screen Size: 16 inches",
+      "Processor: AMD Ryzen 9",
+      "RAM: 32 GB",
+      "Storage: 1 TB SSD",
+      "Graphics: NVIDIA RTX 3070"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": 4,
+    "title": "Laptop PowerPlus",
+    "image": "https://i.ibb.co.com/VDCFgYs/l-4.jpg",
+    "category": "Laptop",
+    "price": 1599.99,
+    "description": "High-end laptop designed for intensive computing tasks.",
+    "specifications": [
+      "Screen Size: 17 inches",
+      "Processor: Intel i9",
+      "RAM: 32 GB",
+      "Storage: 1 TB SSD",
+      "Graphics: NVIDIA RTX 3080"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 5,
+    "title": "Laptop BusinessMate",
+    "image": "https://i.ibb.co.com/zNBsCGY/l-5.jpg",
+    "category": "Laptop",
+    "price": 1199.99,
+    "description": "Business laptop with robust security and performance features.",
+    "specifications": [
+      "Screen Size: 14 inches",
+      "Processor: Intel i7",
+      "RAM: 16 GB",
+      "Storage: 512 GB SSD",
+      "Battery Life: 12 hours"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "title": "Gaming Laptop Titan",
+    "image": "https://i.ibb.co.com/7yqQy7h/l-6.jpg",
+    "category": "Laptop",
+    "price": 1899.99,
+    "description": "Ultimate gaming laptop with 4K display and RTX 4080 graphics.",
+    "specifications": [
+      "Screen Size: 17.3 inches",
+      "Processor: Intel i9",
+      "RAM: 64 GB",
+      "Storage: 2 TB SSD",
+      "Graphics: NVIDIA RTX 4080"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": 7,
+    "title": "Smartphone Ultra",
+    "image": "https://i.ibb.co.com/JKCXVj0/p-1.jpg",
+    "category": "Phone",
+    "price": 899.99,
+    "description": "Flagship smartphone with an impressive camera and display.",
+    "specifications": [
+      "Screen Size: 6.7 inches",
+      "Processor: Snapdragon 888",
+      "RAM: 12 GB",
+      "Storage: 256 GB",
+      "Camera: 108 MP rear, 32 MP front"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "title": "Budget Phone Mini",
+    "image": "https://i.ibb.co.com/tP397q0/p-2.jpg",
+    "category": "Phone",
+    "price": 199.99,
+    "description": "Affordable phone with all essential features.",
+    "specifications": [
+      "Screen Size: 5.5 inches",
+      "Processor: MediaTek",
+      "RAM: 3 GB",
+      "Storage: 32 GB",
+      "Camera: 13 MP rear, 8 MP front"
+    ],
+    "availability": true,
+    "rating": 4.1
+  },
+  {
+    "id": 9,
+    "title": "Photography Phone Pro",
+    "image": "https://i.ibb.co.com/0jpWDfZ/p-3.jpg",
+    "category": "Phone",
+    "price": 699.99,
+    "description": "Specially designed for photographers.",
+    "specifications": [
+      "Screen Size: 6.4 inches",
+      "Processor: Snapdragon 870",
+      "RAM: 8 GB",
+      "Storage: 128 GB",
+      "Camera: 64 MP rear, 20 MP front"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "title": "Wireless Earbuds",
+    "image": "https://i.ibb.co.com/7NKYfHL/a-1.jpg",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Comfortable earbuds with high-quality sound.",
+    "specifications": [
+      "Battery Life: 5 hours",
+      "Bluetooth: 5.0",
+      "Waterproof: IPX4",
+      "Color: Black"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "id": 11,
+    "title": "Portable Charger 10,000mAh",
+    "image": "https://i.ibb.co.com/JsZczJw/a-2.jpg",
+    "category": "Accessories",
+    "price": 25.99,
+    "description": "Lightweight and high-capacity portable charger.",
+    "specifications": [
+      "Capacity: 10,000mAh",
+      "Ports: USB-C and USB-A",
+      "Color: White",
+      "Size: Compact"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "id": 12,
+    "title": "Smartwatch Fit",
+    "image": "https://i.ibb.co.com/P9YtcKG/sw-1.jpg",
+    "category": "Smartwatch",
+    "price": 149.99,
+    "description": "Fitness-focused smartwatch with health tracking.",
+    "specifications": [
+      "Screen Size: 1.4 inches",
+      "Battery Life: 7 days",
+      "Heart Rate Monitor: Yes",
+      "GPS: Yes"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "title": "Smartwatch Classic",
+    "image": "https://i.ibb.co.com/gmkFxh7/sw-2.jpg",
+    "category": "Smartwatch",
+    "price": 199.99,
+    "description": "Stylish smartwatch with various smart features.",
+    "specifications": [
+      "Screen Size: 1.2 inches",
+      "Battery Life: 5 days",
+      "Heart Rate Monitor: Yes",
+      "Water Resistant: Yes"
+    ],
+    "availability": true,
+    "rating": 4.5
+  }
+]
